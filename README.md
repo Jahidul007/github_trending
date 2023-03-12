@@ -17,6 +17,11 @@ $ flutter build apk --release
 $ flutter run 
 ```
 
+### Github api documentations
+```
+https://docs.github.com/en/rest
+```
+
 
 Heres is some screenshot 
 
